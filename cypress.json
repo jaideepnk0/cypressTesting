@@ -1,0 +1,5 @@
+{
+    "baseUrl": "https://soraia.herokuapp.com",
+    "testFiles": "**/*.spec.js",
+    "pageLoadTimeout": 1000000
+}
