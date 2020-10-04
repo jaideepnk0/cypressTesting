@@ -22,6 +22,7 @@ You should download and install these properly on your system. Visit the website
 
 * [Node.js](https://nodejs.org/en/) - An open-source, cross-platform, JavaScript runtime environment that executes JavaScript code outside of a web browser. Install Node.js from <https://nodejs.org/en/>.
 * [npm](https://www.npmjs.com/) - A package manager for the JavaScript programming language. It is the default package manager for the JavaScript runtime environment Node.js. It is distributed with Node.js, which means that when you download Node.js, you automatically get npm installed on your computer.
+* [vscode](https://code.visualstudio.com/download) - After having Node setup successfully, the next thing is to have IDE. 
 
 
 ## Libraries
@@ -29,6 +30,10 @@ You should download and install these properly on your system. Visit the website
 
 - [cypress](https://www.cypress.io/) - A JavaScript-based end-to-end testing framework.
 
+## Initial SetUp
+
+Open an editor and create a new node project, and for that, we need first to create our workspace.
+Then open a terminal and clone the repo by using command- git clone https://github.com/jaideepnk0/cypressTesting.git
 
 ## Running Tests
 
